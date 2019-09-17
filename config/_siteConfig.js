@@ -23,23 +23,23 @@ export default {
       link: '/about'
     },
     {
-      name: 'Contact',
-      link: '/contact'
-    },
+      name: 'Services',
+      link: 'http://awake-premium-lp.danielkelly.io/',
+      target: '_blank'
+    }
     {
-      name: 'Categories',
-      link: '/categories'
-    },
-    {
-      name: 'Github Repo',
+      name: 'Projects',
       link: 'https://github.com/danielkellyio/awake-template',
       target: '_blank'
     },
     {
-      name: 'Awake+ Premium',
-      link: 'http://awake-premium-lp.danielkelly.io/',
-      target: '_blank'
-    }
+      name: 'Learning Center',
+      link: '/categories'
+    },
+    {
+      name: 'Contact',
+      link: '/contact'
+    },
   ],
   hero: {
     theme: 'dark' // options: mist, light, dark
