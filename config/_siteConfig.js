@@ -24,21 +24,25 @@ export default {
     },
     {
       name: 'Services',
-      link: 'http://awake-premium-lp.danielkelly.io/',
-      target: '_blank'
+      link: '/services'
     }
     {
       name: 'Projects',
-      link: 'https://github.com/danielkellyio/awake-template',
+      link: '/projects'
       target: '_blank'
     },
     {
       name: 'Learning Center',
-      link: '/categories'
+      link: '/learningcenter'
     },
     {
       name: 'Contact',
       link: '/contact'
+    },
+    //{
+      name: 'Projects',
+      link: 'https://github.com/danielkellyio/awake-template',
+      target: '_blank'
     },
   ],
   hero: {
