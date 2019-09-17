@@ -39,9 +39,9 @@ export default {
       name: 'Contact',
       link: '/contact'
     },
-    //{
-      name: 'Projects',
-      link: 'https://github.com/danielkellyio/awake-template',
+    {
+      name: 'Search',
+      link: 'https://google.com',
       target: '_blank'
     },
   ],
