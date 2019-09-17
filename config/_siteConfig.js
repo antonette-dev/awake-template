@@ -10,7 +10,7 @@ import theCMS from '../cms/netlify/cms'
  */
 export default {
   siteName: 'Websites For Accounting Firms',
-  tagline: 'A Nuxt.js Theme for Netlify CMS',
+  tagline: 'Websites',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
